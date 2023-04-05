@@ -71,7 +71,7 @@ main {
   margin: auto;
   width: 100%;
   min-height: 100vh;
-  background: var(--pale-blue);
+  background: var(--white);
 }
 
 .container {
@@ -83,6 +83,7 @@ main {
   width: 650px;
   border-radius: 20px;
   background: var(--white);
+  box-shadow: 0 0 10px var(--light-lavender);
 }
 
 .content-result {
