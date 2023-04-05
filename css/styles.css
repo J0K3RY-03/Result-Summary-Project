@@ -83,7 +83,7 @@ main {
   width: 650px;
   border-radius: 20px;
   background: var(--white);
-  box-shadow: 0 0 10px var(--light-lavender);
+  box-shadow: 0 0 20px var(--light-lavender);
 }
 
 .content-result {
